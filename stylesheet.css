@@ -1,0 +1,32 @@
+/* General styling */
+
+
+header {
+
+    font-size: 30px;
+    font-style:normal;
+    font-family:'Times New Roman', Times, serif;
+
+
+}
+
+ 
+body {
+    font-family: Arial;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color:whitesmoke;
+}
+}
+
+logo {
+    color: #c91111;
+
+}
+
+.active {
+    color: #121111; 
+}
+
+
